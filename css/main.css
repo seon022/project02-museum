@@ -1230,9 +1230,6 @@
     .allMenu {
         display: none;
     }
-    .head1 {
-        align-items: flex-end;
-    }
     .h1_right {
         width: 780px;
         padding: 0 0 0 20px;
